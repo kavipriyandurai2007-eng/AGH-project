@@ -1,0 +1,6 @@
+{
+  "name": "VaultOne",
+  "description": "Track Smart. Spend Smarter. A premium, modern full-stack AI-powered fintech expense tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
